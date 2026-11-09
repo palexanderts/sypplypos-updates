@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "product":  "Sypply POS Core",
-    "version":  "1.0.1",
-    "publishedAtUtc":  "2026-11-08T17:29:40.6025647Z",
+    "version":  "1.0.2",
+    "publishedAtUtc":  "2026-11-09T02:38:53.7981172Z",
     "package":  {
-                    "fileName":  "SypplyPOSCore-1.0.1.zip",
-                    "url":  "https://palexanderts.github.io/sypplypos-updates/core-updates/SypplyPOSCore-1.0.1.zip",
-                    "sha256":  "7909be6848308cde2ffb6fefe189a2aa34eb1bdf1627497203c4a62cccf38856",
-                    "sizeBytes":  68387734
+                    "fileName":  "SypplyPOSCore-1.0.2.zip",
+                    "url":  "https://palexanderts.github.io/sypplypos-updates/core-updates/SypplyPOSCore-1.0.2.zip",
+                    "sha256":  "5f760352c85c85682b014c02c57c5aded12dfcb51aff0282257e138537518b97",
+                    "sizeBytes":  68398988
                 }
 }
